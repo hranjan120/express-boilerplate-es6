@@ -4,3 +4,4 @@ dist/
 package-lock.json
 .env.dev
 .env.prod
+coverage/
