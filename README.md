@@ -1,5 +1,5 @@
-# Express Rest API App ES6
-> ### Example App (Express + Mongoose + Jest + SuperTest) containing real world folder structure. The application uses EsLint with popular Airbnb Design Pattern 
+# Express Rest API boilerplate ES6
+### Example App (Express + Mongoose + Jest + SuperTest) containing real world folder structure. The application uses EsLint with popular Airbnb Design Pattern 
 
 # Getting started
 
